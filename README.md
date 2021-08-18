@@ -3,9 +3,8 @@
 ## Hey, I'm Pedro Mondadori
 
 Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) and intern at [Nelogica](https://www.nelogica.com.br/)
-
+  
 **Social Media:**
-
 
 <a href="https://github.com/PedroMondadori" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/pedro-mondadori/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
@@ -44,4 +43,11 @@ Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) and inter
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original-wordmark.svg" alt="ocaml" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/> </a>
 
+  <div float="left">
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroMondadori&show_icons=true&locale=en" alt="PedroMondadori" />
+    <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMondadori&" alt="PedroMondadori" />
+  </div>
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroMondadori&show_icons=true&locale=en&layout=compact" alt="PedroMondadori" />
+  
 </div>
