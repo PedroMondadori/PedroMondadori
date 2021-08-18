@@ -1,8 +1,11 @@
+<div align="center">
+  
 ## Hey, I'm Pedro Mondadori
 
 Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) and intern at [Nelogica](https://www.nelogica.com.br/)
 
 **Social Media:**
+
 
 <a href="https://github.com/PedroMondadori" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/pedro-mondadori/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
@@ -40,3 +43,5 @@ Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) and inter
 <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original-wordmark.svg" alt="ocaml" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/> </a>
+
+</div>
