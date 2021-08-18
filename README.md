@@ -44,10 +44,10 @@ Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) and inter
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/> </a>
 
   <div float="left">
-    <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroMondadori&show_icons=true&locale=en&count_private=true" alt="PedroMondadori" />
-    <img width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMondadori&count_private=true" alt="PedroMondadori" />
+    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroMondadori&show_icons=true&locale=en&count_private=true&theme=radical" alt="PedroMondadori" />
+    <img width=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMondadori&count_private=true&theme=radical" alt="PedroMondadori" />
   </div>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroMondadori&show_icons=true&locale=en&layout=compact&count_private=true" alt="PedroMondadori" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroMondadori&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="PedroMondadori" />
   
 </div>
