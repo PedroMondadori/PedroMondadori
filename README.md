@@ -2,7 +2,7 @@
   
 ## Hey, I'm Pedro Mondadori
 
-Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial) and intern at [Nelogica](https://www.nelogica.com.br/)
+Computer Science student at [UFRGS](http://www.ufrgs.br/ufrgs/inicial)
   
 **Social Media:**
 
